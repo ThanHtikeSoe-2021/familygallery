@@ -71,8 +71,9 @@ p {
 }
 .header_image {
   width: 95%;
-  height: 300px;
-  
+  height: 150px;
+  margin: 0px;
+  padding:30px;
 }
 
 
