@@ -68,6 +68,7 @@ p {
 .intro {
   width: 100%;
   margin: auto;
+  font-size:2.5rem;
 }
 .header_image {
   width: 800px;
