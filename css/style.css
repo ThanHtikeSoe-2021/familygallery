@@ -6,7 +6,7 @@ body {
 }
 
 .top-container {
-  background-color: #EAF6F6;
+  background-color: white;
   padding-top: 100px;
 }
 
@@ -71,9 +71,9 @@ p {
 }
 .header_image {
   width: 95%;
-  height: 150px;
+  height: 230px;
   margin: 0px;
-  padding:30px;
+  padding:20px;
 }
 
 
