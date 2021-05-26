@@ -150,7 +150,7 @@ a:hover {
   color: #bce6eb;
 }
 
-<style type="text/css">
+
 .classname {
 	-moz-box-shadow:inset 0px 1px 3px 0px #2b665e;
 	-webkit-box-shadow:inset 0px 1px 3px 0px #2b665e;
@@ -193,4 +193,4 @@ width:150px;
 }.classname:active {
 	position:relative;
 	top:1px;
-}</style>
+}
